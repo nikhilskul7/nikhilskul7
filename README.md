@@ -1,26 +1,42 @@
-# 👋 Hi there, I'm Nikhil Kulkarni!
+# 👋 Hi there, I'm Nikhil! 🚀
 
 ### 👩‍💻 About Me
 - Full Stack Developer from Boston 🌆
 - MSCS Student at Northeastern University 🏛️
-- Former Software Engineer at QuickBase Inc. 🔭
-- Always exploring new cutting-edge technologies 🌱
-- Love building web apps in my free time ❤️
-- [Check out my portfolio](Portfolio Badge)
+- Former Software Engineer at QuickBase Inc and PTC. 🔭
+- Passionate about embracing cutting-edge technologies and their potential 🌱
+- Enthusiastic about crafting innovative web apps during my free time ❤️
+
+
 
 ### 🛠️ Languages and Tools
-Java | Spring | Python | Android | Flutter | CSS | HTML | JavaScript | React | Redux | NodeJS | Firebase | MongoDB | MySQL | AWS | Git
-
-### 🔥 My Stats
-![GitHub Streak](GitHub Streak) ![Top Langs](Top Langs)
-
-### 📄 My Resume
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<br />
 
 #### Education
-- **Northeastern University**, Boston, MA | Master of Science in Computer Science | Expected May 2024
-  - Related Courses: Algorithms, Programming Design Paradigm, Database Management System, Web Development
+- **Northeastern University**, Boston, MA | Master of Science in Computer Science | May 2024
+  - Related Courses: Algorithms, Programming Design Paradigm, Database Management System, Web Development, Computer System Security, Building Scalable Systems
 - **Pune University**, Pune, India | Bachelor of Engineering in Computer Science | May 2022
-  - Related Courses: Machine Learning, Computer Networking, High-Performance Computing, Operating Systems, AI
+  - Related Courses: Machine Learning, Computer Networking, High-Performance Computing, Operating Systems, Artifical Intelligence, Cloud Computing
+
+<br />
 
 #### Technical Skills
 - **Languages:** Python, Java, JavaScript, C, C++, R, TypeScript, Solidity
@@ -28,6 +44,7 @@ Java | Spring | Python | Android | Flutter | CSS | HTML | JavaScript | React | R
 - **Web Frameworks:** HTML, CSS, Angular, React.js, Django, Node.js, Flask, Spring, React Native, Web3.js
 - **Cloud Compute and DevOps:** Git, AWS, GCP, Unix/Linux, Node, Jenkins, Kubernetes, Docker
 
+<br />
 ### 🚀 Experience
 
 #### QuickBase Inc | Software Development Engineer Intern | July 2023 – December 2023
@@ -44,6 +61,15 @@ Java | Spring | Python | Android | Flutter | CSS | HTML | JavaScript | React | R
 - Conducted study sessions resulting in a 15% upsurge in average test scores.
 - Provided one-on-one mentorship, resulting in a 20% improvement in struggling students' grades.
 
+### Whiz Key Pvt Ltd | App Developer Intern |  Pune,India | Nov 2020 - Jan 2021
+- Devised a prototype application for smart home leveraging React Native and Firebase in a team of 3.
+- Implemented a POC to connect remote devices to the server and access it using the React Native application.
+
+### Web Developer Intern | Edify Accelerators | Remote | Apr 2020 - Jul 2020
+- Created a website using Python, Django, and MySQL, increasing rendering speed compared to the previous version.
+- Synthesized KNN using Python, increasing the chances of correct selection for likely blood donors by 75%.
+
+<br />
 ### 💻 Projects
 
 #### Sign Language Recognition | Northeastern University | August 2021 – April 2022
@@ -56,3 +82,13 @@ Java | Spring | Python | Android | Flutter | CSS | HTML | JavaScript | React | R
 
 #### Merit Analyzer | VIT Hackathon | September 2020
 - Engineered a high-performing Django and React web application on AWS EC2, enabling efficient data analysis and visualization with plotly.js, winning the first prize in the hackathon.
+
+#### Twitter Clone
+- Developed a Twitter clone using React, Node and MongoDB to mimic core functionalities of the platform.
+- Implemented features like tweet posting, following users, and real-time updates for a seamless user experience.
+
+#### Spotify Clone
+- Created a Spotify clone replicating the music streaming service's interface and functionalities using React, Node and MongoDB.
+- Implemented user authentication, playlist management, and music playback functionalities to mirror the Spotify experience.
+
+#### ... and many more exciting projects!
