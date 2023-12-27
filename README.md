@@ -31,6 +31,8 @@
 <br />
 
 <br />
+
+
 ### Projects  💻
 
 #### Sign Language Recognition | Northeastern University | August 2021 – April 2022
