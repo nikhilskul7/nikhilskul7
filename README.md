@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nikhil! 🚀
 
-### 👩‍💻 About Me
+###  About Me 👩‍💻
 - Full Stack Developer from Boston 🌆
 - MSCS Student at Northeastern University 🏛️
 - Former Software Engineer at QuickBase Inc and PTC. 🔭
@@ -9,8 +9,8 @@
 
 
 
-### 🛠️ Languages and Tools
-<div>
+### Languages and Tools  🛠️
+ <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -31,7 +31,7 @@
 <br />
 
 <br />
-### 💻 Projects
+### Projects  💻
 
 #### Sign Language Recognition | Northeastern University | August 2021 – April 2022
 - Executed Google MediaPipe for object detection, achieving an 85% accuracy LSTM model.
