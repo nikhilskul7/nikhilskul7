@@ -30,45 +30,6 @@
 </div>
 <br />
 
-#### Education
-- **Northeastern University**, Boston, MA | Master of Science in Computer Science | May 2024
-  - Related Courses: Algorithms, Programming Design Paradigm, Database Management System, Web Development, Computer System Security, Building Scalable Systems
-- **Pune University**, Pune, India | Bachelor of Engineering in Computer Science | May 2022
-  - Related Courses: Machine Learning, Computer Networking, High-Performance Computing, Operating Systems, Artifical Intelligence, Cloud Computing
-
-<br />
-
-#### Technical Skills
-- **Languages:** Python, Java, JavaScript, C, C++, R, TypeScript, Solidity
-- **Databases:** SQL Server, MySQL, MongoDB, GraphQL, PostgreSQL
-- **Web Frameworks:** HTML, CSS, Angular, React.js, Django, Node.js, Flask, Spring, React Native, Web3.js
-- **Cloud Compute and DevOps:** Git, AWS, GCP, Unix/Linux, Node, Jenkins, Kubernetes, Docker
-
-<br />
-### 🚀 Experience
-
-#### QuickBase Inc | Software Development Engineer Intern | July 2023 – December 2023
-- Collaborated with cross-functional teams, enhancing the report builder panel by 70% using React and Java, deployed on AWS.
-- Developed React-based web apps impacting 2500+ users weekly, maintaining code quality through Jest/Enzyme tests and Jenkins CI.
-- Designed scalable Java/C++ APIs with MSSQL server, incorporating GraphQL, improving system functionality by 50%.
-
-#### PTC | Software Development Engineer Intern | August 2021 – April 2022
-- Revamped backend architecture, creating a High Availability environment using RESTful APIs in Azure.
-- Developed Java modules for Prometheus metrics monitoring, resulting in 50% faster troubleshooting.
-- Managed REST APIs for Java-based back-end services, reducing API response time by 50%.
-
-#### Northeastern University | Graduate Teaching Assistant and Grader | January 2023 – June 2023
-- Conducted study sessions resulting in a 15% upsurge in average test scores.
-- Provided one-on-one mentorship, resulting in a 20% improvement in struggling students' grades.
-
-### Whiz Key Pvt Ltd | App Developer Intern |  Pune,India | Nov 2020 - Jan 2021
-- Devised a prototype application for smart home leveraging React Native and Firebase in a team of 3.
-- Implemented a POC to connect remote devices to the server and access it using the React Native application.
-
-### Web Developer Intern | Edify Accelerators | Remote | Apr 2020 - Jul 2020
-- Created a website using Python, Django, and MySQL, increasing rendering speed compared to the previous version.
-- Synthesized KNN using Python, increasing the chances of correct selection for likely blood donors by 75%.
-
 <br />
 ### 💻 Projects
 
