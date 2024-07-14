@@ -3,7 +3,7 @@
 ###  About Me 👩‍💻
 - Full Stack Developer from Boston 🌆
 - MSCS Student at Northeastern University 🏛️
-- Former Software Engineer at QuickBase Inc and PTC. 🔭
+- Former Software Engineer at SOCOTEC USA, QuickBase Inc and PTC. 🔭
 - Passionate about embracing cutting-edge technologies and their potential 🌱
 - Enthusiastic about crafting innovative web apps during my free time ❤️
 
